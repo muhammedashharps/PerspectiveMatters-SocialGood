@@ -43,6 +43,12 @@ An App where Two AI Agents debate against each other on any valid topic providin
 - Seamless AI interaction model
 
 
+## 🌈 Beyond an App: A Social Healing Platform
+
+"Perspective Matters" is not just a technological solution—it's a movement towards social understanding by engaging with diverse world views.
+
+*"Understanding is the first step to healing." - Perspective Matters Team*
+
 ## 💡 Real-World Social Transformation
 
 ### Educational Potential
@@ -62,12 +68,6 @@ An App where Two AI Agents debate against each other on any valid topic providin
 - Promotes constructive dialogue
 - Challenges divisive thinking patterns
 - Creates a safe space for intellectual exploration
-
-## 🌈 Beyond an App: A Social Healing Platform
-
-Perspective Matters is not just a technological solution—it's a movement towards social understanding, one AI-powered conversation at a time.
-
-*"Understanding is the first step to healing." - Perspective Matters Team*
 
 ## 📫 Join the Movement
 
