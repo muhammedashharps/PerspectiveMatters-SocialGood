@@ -40,15 +40,8 @@ An App where Two AI Agents debate against each other on any valid topic providin
 - Real-time AI-generated debates
 - Multiple topic support
 - Intuitive user interface
-- Argument tracking and analysis
 - Seamless AI interaction model
 
-### Technical Components
-- **Frontend**: Flutter mobile application
-- **Backend**: Gemini AI integration
-- **State Management**: Provider/Riverpod
-- **Networking**: Dio/http package
-- **Localization**: Easy internationalization support
 
 ## 💡 Real-World Social Transformation
 
