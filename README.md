@@ -1,5 +1,11 @@
 # Perspective Matters: Healing Social Divides Through AI 🌍
 
+> ![Prototype](prototype.gif)
+
+## About the Project 🌟
+
+Perspective Matters is a groundbreaking Flutter application that revolutionizes the way we engage with differing viewpoints. By leveraging the power of Google's Gemini AI, this app creates an intelligent debate platform where two AI agents engage in structured discourse, challenging our preconceptions and broadening our understanding of complex topics.
+
 ## 🌟 Social Impact at the Core
 
 In a world increasingly fragmented by polarization, Perspective Matters emerges as a powerful tool for social healing and understanding.
@@ -24,23 +30,28 @@ An App where Two AI Agents debate against each other on any valid topic providin
 
 ## 🖥️ Technical Details and Functionality
 
+## How It Works 🛠️
+
+### 1. Topic Validation
+- User inputs a debate topic
+- Gemini AI performs intelligent filtering
+- Screens out inappropriate or dangerous topics
+- Ensures meaningful discourse parameters
+
+### 2. Dual AI Debate System
+```
+User Input → Validation → Pro AI Agent ⚔️ Con AI Agent → Structured Debate
+```
+> ![Prototype](workflow.png)
+
+### 3. Safety Features
+- Smart content filtering
+
 ### App Architecture
 - **Framework**: Flutter 
 - **AI Engine**: Google Gemini API
 - **Platforms**: Mobile (iOS and Android)
 
-### Debate Generation Mechanism
-- User selects or inputs a debate topic
-- Two AI agents powered by Gemini AI engage in a structured debate
-- First AI agent constructs pro-arguments
-- Second AI agent develops counter-arguments
-- Comprehensive debate displayed in an interactive interface
-
-### Key Features
-- Real-time AI-generated debates
-- Multiple topic support
-- Intuitive user interface
-- Seamless AI interaction model
 
 
 ## 🌈 Beyond an App: A Social Healing Platform
