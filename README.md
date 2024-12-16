@@ -3,7 +3,7 @@
 ## 🌟 Social Impact at the Core
 
 In a world increasingly fragmented by polarization, Perspective Matters emerges as a powerful tool for social healing and understanding.
-A App where Two AI Agents debate against each other on any valid topic providing a wider perspective about the topic to the general public.
+An App where Two AI Agents debate against each other on any valid topic providing a wider perspective about the topic to the general public.
 
 ### How We Create Social Good 🤝
 
