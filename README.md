@@ -53,36 +53,8 @@ User Input → Validation → Pro AI Agent ⚔️ Con AI Agent → Structured De
 - **Platforms**: Mobile (iOS and Android)
 
 
-
-## 🌈 Beyond an App: A Social Healing Platform
-
-"Perspective Matters" is not just a technological solution—it's a movement towards social understanding by engaging with diverse world views.
-
-*"Understanding is the first step to healing." - Perspective Matters Team*
-
-## 💡 Real-World Social Transformation
-
-### Educational Potential
-- School curricula can use the app to teach critical thinking
-- Community centers can leverage it for conflict resolution
-- Social workers can demonstrate perspective-taking skills
-
-### Conflict Resolution Approach
-- Demonstrates how different viewpoints can coexist
-- Shows the humanity behind different perspectives
-- Provides a non-threatening way to explore complex issues
-
-## 🚀 Measurable Social Impact
-
-- Reduces cognitive biases
-- Increases empathetic listening
-- Promotes constructive dialogue
-- Challenges divisive thinking patterns
-- Creates a safe space for intellectual exploration
-
 ## 📫 Join the Movement
 
 - **Email**: contactashharps@gmail.com
-- **Hackathon**: FuncStart AI for Social Good
 
 Together, we can rebuild social bridges, one perspective at a time promoting Social Good
