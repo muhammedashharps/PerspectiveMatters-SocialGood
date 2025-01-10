@@ -4,7 +4,7 @@
 
 ## About the Project 🌟
 
-Perspective Matters is a groundbreaking Flutter application that revolutionizes the way we engage with differing viewpoints. By leveraging the power of Google's Gemini AI, this app creates an intelligent debate platform where two AI agents engage in structured discourse, challenging our preconceptions and broadening our understanding of complex topics.
+Perspective Matters is a an impactful application built using Flutter that revolutionizes the way we engage with differing viewpoints. By leveraging the power of Google's Gemini AI, this app creates an intelligent debate platform where two AI agents engage in structured discourse, challenging our preconceptions and broadening our understanding of complex topics.
 
 ## 🌟 Social Impact at the Core
 
