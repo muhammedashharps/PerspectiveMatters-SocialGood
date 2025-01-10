@@ -46,11 +46,14 @@ User Input → Validation → Pro AI Agent ⚔️ Con AI Agent → Structured De
 
 ### 3. Safety Features
 - Smart content filtering
+- Eliminating Harmful Topics
+  
+  
 
 ### App Architecture
 - **Framework**: Flutter 
-- **AI Engine**: Google Gemini API
-- **Platforms**: Mobile (iOS and Android)
+- **AI Engine**: Google Gemini AI
+- **Platforms**: Mobile (Android)
 
 
 ## 📫 Join the Movement
