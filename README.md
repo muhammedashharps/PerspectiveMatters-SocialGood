@@ -1,5 +1,5 @@
 # Perspective Matters: Healing Social Divides Through AI 🌍
-
+[![Working Prototype](https://img.shields.io/badge/Visit-Perspective%20Matters-brightgreen)](https://perspectivemattersnssce.streamlit.app/)
 > ![Prototype](prototype.gif)
 
 ## About the Project 🌟
